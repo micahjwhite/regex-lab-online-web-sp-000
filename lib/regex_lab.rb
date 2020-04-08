@@ -1,4 +1,4 @@
-def starts_with_a_vowel?(word)
+def starts_with_a_vowel?(word).scan(/)
 
 end
 
